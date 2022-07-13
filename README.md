@@ -1,7 +1,7 @@
 # 🍿 Film Finder 🍿
 
 ## What is this?
-A demonstration of HTTP requests using asynchronous JavaScript and the fetch API. The app allows the user to select a movie genre. It will then make a HTTP request to The Movie Database (TMDB) for a random movie from that genre, and present the returned information back on the page. The user can select whether they like or dislike the movie returned. The information will then clear from the page and another random movie will be fetched.
+A demonstration of HTTP requests using asynchronous JavaScript and the fetch API. The Film Finder app allows the user to select a movie genre. It will then make a HTTP request to The Movie Database (TMDB) for a random movie from that genre, and present the returned information back on the page. The user can select whether they like or dislike the movie returned. The information will then clear from the page and another random movie will be fetched.
 
 ## Setup Instructions
 #### API
